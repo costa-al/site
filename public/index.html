@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Turing Pi - Raspberry Pi compatible edge computer on Kubernetes</title>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/index.css?1" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" type="text/css" href="./slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="./slick/slick-theme.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+        <script src="https://animaproject.s3.amazonaws.com/launchpad-static/launchpad.js"></script>
+        <meta content="Launchpad by Anima" name="author">
+        </meta>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TWXGGKC');</script>
+        <!-- End Google Tag Manager -->
+    </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWXGGKC"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <input id="anPageName" name="page" type="hidden" value="index"/>
+        <div class="bp4-index">
+            <div class="bp4-body-layout-container">
+                <div class="bp4-body">
+                    <div class="bp4-hero">
+                        <div class="bp4-left">
+                            <div class="bp4-h1">
+                                <div class="bp4-rectangle">
+                                </div>
+                                <div class="bp4-rectanglecopy2">
+                                </div>
+                                <div class="bp4-turingpiclusterboa">
+                                    TURING PI<br />CLUSTERBOARD
+                                </div>
+                            </div>
+                            <div class="bp4-raspberrypicompati">
+                                RASPBERRY PI COMPATIBLE EDGE <br />COMPUTER ON KUBERNETES
+                            </div>
+                        </div>
+                        <div class="bp4-right">
+                            <div class="bp4-bg">
+                            </div>
+                            <div class="bp4-iconscroll">
+                                <div class="bp4-slackicon">
+                                    <div class="bp4-rectangle">
+                                    </div>
+                                </div>
+                                <img anima-src="./img/index-uf301@2x.png" class="bp4-uf301" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                            <!--<div class="bp4-slider-layout-container">
+                                <div class="bp4-slider">
+                                    <img anima-src="./img/index-oval-copy-2@2x.png" class="bp4-ovalcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <img anima-src="./img/index-oval-copy-5-3@2x.png" class="bp4-ovalcopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <img anima-src="./img/index-oval-copy-2@2x.png" class="bp4-ovalcopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+                            </div>-->
+                            <div class="bp4-turingpiclusteboard slider single-item">
+                                <div><img anima-src="./img/index-turingpi-clusteboard.png" /></div>
+                                <div>2</div>
+                                <div>3</div>
+                            </div>
+                            <!--<img anima-src="./img/index-turingpi-clusteboard.png" class="bp4-turingpiclusteboard" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            -->
+                        </div>
+                    </div>
+                    <div class="bp4-software">
+                        <div class="bp4-h2">
+                            <div class="bp4-rectangle">
+                            </div>
+                            <div class="bp4-software1">
+                                SOFTWARE
+                            </div>
+                        </div>
+                        <div class="bp4-turingpisupportsk">
+                            Turing Pi supports Kubernetes software ecosystem, as well as machine learning and serverless stacks
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp4-logos">
+                                <img anima-src="./img/index-bitmap.png" class="bp4-kubernetes" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-tensorflow.png" class="bp4-tensorflow" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-mxnet.png" class="bp4-mxnet" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-docker.png" class="bp4-docker" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-openfaas.png" class="bp4-openfaas" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-caffe.png" class="bp4-caffe" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="bp4-moreflexebility">
+                        <div class="bp4-h2">
+                            <div class="bp4-rectangle">
+                            </div>
+                            <div class="bp4-rectanglecopy3">
+                            </div>
+                            <div class="bp4-moreflexibilitymor">
+                                MORE FLEXIBILITY <br />MORE POWER
+                            </div>
+                        </div>
+                        <div class="bp4-a7xraspberrypicom">
+                            7 x Raspberry Pi Compute modules connected with 1 Gbps Ethernet network allows you to run cloud and ML applications at the edge
+                        </div>
+                        <img anima-src="./img/index-scheme.svg" class="bp4-scheme" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                    <div class="bp4-cards">
+                        <div class="bp4-a01">
+                            <img anima-src="./img/index-rectangle-18@2x.png" class="bp4-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp4-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp4-experiencethefull">
+                                Experience the full power of compactness with mini ITX standard
+                            </div>
+                            <div class="bp4-miniitx">
+                                Mini ITX
+                            </div>
+                            <div class="bp4-icon1">
+                                <img anima-src="./img/index-icon-1.svg" class="bp4-icon11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp4-a02">
+                            <img anima-src="./img/index-rectangle-17@2x.png" class="bp4-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp4-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp4-supportsraspberypi">
+                                Supports Raspberry Pi 3/3+ Compute modules. Starting at $25 per each module
+                            </div>
+                            <div class="bp4-rpimodules">
+                                RPi modules
+                            </div>
+                            <div class="bp4-icon2">
+                                <img anima-src="./img/index-icon-2.svg" class="bp4-icon21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp4-a03">
+                            <img anima-src="./img/index-rectangle-18@2x.png" class="bp4-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp4-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp4-extendyourcreativi">
+                                Extend your creativity with 7x Raspberry Pi compatible shields
+                            </div>
+                            <div class="bp4-gpio40pin">
+                                GPIO 40-pin
+                            </div>
+                            <div class="bp4-group">
+                                <div class="bp4-icon3">
+                                    <div class="bp4-background">
+                                    </div>
+                                    <img anima-src="./img/index-icon-3.svg" class="bp4-icon31" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp4-footer">
+                        <div class="bp4-rectangle">
+                        </div>
+                        <!--<div class="bp4-right">
+                            <div class="bp4-privacy">
+                                PRIVACY
+                            </div>
+                            <div class="bp4-cookies">
+                                COOKIES
+                            </div>
+                        </div>-->
+                        <div class="bp4-turing2512019">
+                            TURING © 2019
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bp4-headerbg">
+            </div>
+            <div class="bp4-header-layout-container">
+                <div class="bp4-header">
+                    <div class="bp4-header1">
+                        <div class="bp4-div">
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp4-logo" id="None">
+                                <img anima-src="./img/index-logo@2x.svg" class="bp4-logo1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                        <div class="bp4-right">
+                            <a href="preorder.html">
+                                <div class="bp4-button">
+                                    <img anima-src="./img/shipping-rectangle-copy-2@2x.png" class="bp4-rectanglecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <div class="bp4-rectangle">
+                                    </div>
+                                    <div class="bp4-preordernow">
+                                        PREORDER NOW
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://turingpi.slack.com" target="_blank">
+                                <div class="bp4-slack">
+                                    <div class="bp4-contact">
+                                        CONTACT
+                                    </div>
+                                    <div class="bp4-slackicon">
+                                        <div class="bp4-rectangle">
+                                        </div>
+                                        <img anima-src="./img/index-bitmap-4@2x.png" class="bp4-bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bp1-index1">
+            <div class="bp1-body-layout-container">
+                <div class="bp1-body">
+                    <div class="bp1-hero">
+                        <div class="bp1-left">
+                            <div class="bp1-h1">
+                                <div anima-show-on-scroll="" class="bp1-rectangle bp1-anima-animate-enter">
+                                </div>
+                                <div anima-show-on-scroll="" class="bp1-rectangle1 bp1-anima-animate-enter1">
+                                </div>
+                                <div anima-show-on-scroll="" class="bp1-raspberrypicompati bp1-anima-animate-enter2">
+                                    RASPBERRY PI COMPATIBLE EDGE <br />COMPUTER ON KUBERNETES
+                                </div>
+                                <div anima-show-on-scroll="" class="bp1-turingpiclusterboa bp1-anima-animate-enter3">
+                                    TURING PI<br />CLUSTERBOARD
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bp1-right">
+                            <div class="bp1-bg">
+                            </div>
+                            <!--<img anima-show-on-scroll="" anima-src="./img/index-turingpi-clusteboard-1.png" class="bp1-turingpiclusteboard bp1-anima-animate-enter4" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp1-slider">
+                                <img anima-src="./img/index-oval-copy-2-1@2x.png" class="bp1-ovalcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-5-1@2x.png" class="bp1-ovalcopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-2-1@2x.png" class="bp1-ovalcopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                            -->
+                            <div class="bp1-turingpiclusteboard slider single-item">
+                                <div><img anima-src="./img/index-turingpi-clusteboard-1.png" /></div>
+                                <div>2</div>
+                                <div>3</div>
+                            </div>
+                            <div class="bp1-scrolldown">
+                                <div class="bp1-rectanglecopy2">
+                                </div>
+                                <img anima-src="./img/index-icon-scroll-2@2x.png" class="bp1-iconscroll" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp1-software">
+                        <div class="bp1-h2">
+                            <div class="bp1-rectangle">
+                            </div>
+                            <div class="bp1-software1">
+                                SOFTWARE
+                            </div>
+                        </div>
+                        <div class="bp1-turingpisupportsk">
+                            Turing Pi supports Kubernetes software ecosystem, as well as machine learning and serverless stacks
+                        </div>
+                        <div class="bp1-logos">
+                            <img anima-src="./img/index-kubernetes-2.png" class="bp1-kubernetes" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-docker-1.png" class="bp1-docker" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-caffee-2.png" class="bp1-caffee" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-opnefaas-1.png" class="bp1-opnefaas" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-mxnet-2.png" class="bp1-mxnet" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-tensorflow-1.png" class="bp1-tensorflow" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <div class="bp1-moreflexibility">
+                        <div class="bp1-h2">
+                            <div class="bp1-rectangle">
+                            </div>
+                            <div class="bp1-rectanglecopy3">
+                            </div>
+                            <div class="bp1-moreflexibilitymor">
+                                MORE FLEXIBILITY <br />MORE POWER
+                            </div>
+                        </div>
+                        <div class="bp1-a7xraspberrypicom">
+                            7 x Raspberry Pi Compute modules connected with 1 Gbps Ethernet network allows you to run cloud and ML applications at the edge
+                        </div>
+                        <img anima-src="./img/index-scheme-1.svg" class="bp1-scheme" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                    <div class="bp1-cards">
+                        <div class="bp1-a01">
+                            <img anima-src="./img/index-rectangle-5.png" class="bp1-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp1-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp1-experiencethefull">
+                                Experience the full power of compactness with mini ITX standard
+                            </div>
+                            <div class="bp1-miniitx">
+                                Mini ITX
+                            </div>
+                            <div class="bp1-icon1">
+                                <img anima-src="./img/index-icon-1-4.svg" class="bp1-icon11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp1-a02">
+                            <img anima-src="./img/index-rectangle-7.png" class="bp1-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp1-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp1-supportsraspberypi">
+                                Supports Raspberry Pi 3/3+ Compute modules. Starting at $25 per each module
+                            </div>
+                            <div class="bp1-rpimodules">
+                                RPi modules
+                            </div>
+                            <div class="bp1-icon2">
+                                <img anima-src="./img/index-icon-2-4.svg" class="bp1-icon21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp1-a03">
+                            <img anima-src="./img/index-rectangle-5.png" class="bp1-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp1-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp1-extendyourcreativi">
+                                Extend your creativity with 7x Raspberry Pi compatible shields
+                            </div>
+                            <div class="bp1-gpio40pin">
+                                GPIO 40-pin
+                            </div>
+                            <div class="bp1-group">
+                                <div class="bp1-icon3">
+                                    <div class="bp1-background">
+                                    </div>
+                                    <img anima-src="./img/index-icon-3-1.svg" class="bp1-icon31" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp1-footer">
+                        <div class="bp1-rectangle">
+                        </div>
+                        <div class="bp1-right">
+                            <div class="bp1-privacy">
+                                <a href="privacy.html">PRIVACY</a>
+                            </div>
+                            <div class="bp1-cookies">
+                                <a href="cookies.html">COOKIES</a>
+                            </div>
+                        </div>
+                        <div class="bp1-turing2512019">
+                            TURING © 2019
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bp1-headerbg">
+            </div>
+            <div class="bp1-header-layout-container">
+                <div class="bp1-header">
+                    <div class="bp1-header1">
+                        <div class="bp1-div">
+                        </div>
+                        <div class="bp1-right">
+                            <a href="preorder.html">
+                                <div class="bp1-button">
+                                    <img anima-src="./img/index-rectangle-copy-4@2x.png" class="bp1-rectanglecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <div class="bp1-rectangle">
+                                    </div>
+                                    <div class="bp1-preordernow">
+                                        PREORDER NOW
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://turingpi.slack.com" target="_blank">
+                                <div class="bp1-slack">
+                                    <div class="bp1-contact">
+                                        CONTACT
+                                    </div>
+                                    <div class="bp1-slackicon">
+                                        <div class="bp1-rectangle">
+                                        </div>
+                                        <img anima-src="./img/index-bitmap-4@2x.png" class="bp1-bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp1-logo" id="None">
+                                <img anima-src="./img/index-logo-1@2x.svg" class="bp1-logo1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bp2-index2">
+            <div class="bp2-body-layout-container">
+                <div class="bp2-body">
+                    <div class="bp2-hero">
+                        <div class="bp2-left">
+                            <div class="bp2-h1">
+                                <div class="bp2-rectangle">
+                                </div>
+                                <div class="bp2-rectanglecopy2">
+                                </div>
+                                <div class="bp2-turingpiclusterboa">
+                                    TURING PI<br />CLUSTERBOARD
+                                </div>
+                            </div>
+                            <div class="bp2-raspberrypicompati">
+                                RASPBERRY PI COMPATIBLE EDGE <br />COMPUTER ON KUBERNETES
+                            </div>
+                        </div>
+                        <div class="bp2-right">
+                            <div class="bp2-bg">
+                            </div>
+                            <div class="bp2-scrolldown">
+                                <div class="bp2-rectanglecopy2">
+                                </div>
+                                <img anima-src="./img/index-icon-scroll-2@2x.png" class="bp2-iconscroll" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                            <!--<div class="bp2-slider">
+                                <img anima-src="./img/index-oval-copy-2@2x.png" class="bp2-ovalcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-5-3@2x.png" class="bp2-ovalcopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-2@2x.png" class="bp2-ovalcopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>-->
+                            <div class="bp2-turingpiclusteboard slider single-item">
+                                <div><img anima-src="./img/index-turingpi-clusteboard-2.png" /></div>
+                                <div>2</div>
+                                <div>3</div>
+                            </div>
+                            <!--<img anima-src="./img/index-turingpi-clusteboard-2.png" class="bp2-turingpiclusteboard" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            -->
+                        </div>
+                    </div>
+                    <div class="bp2-software">
+                        <div class="bp2-h2">
+                            <div class="bp2-rectangle">
+                            </div>
+                            <div class="bp2-software1">
+                                SOFTWARE
+                            </div>
+                        </div>
+                        <div class="bp2-turingpisupportsk">
+                            Turing Pi supports Kubernetes software ecosystem, as well as machine learning and serverless stacks
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp2-logos">
+                                <img anima-src="./img/index-kubernetes-2.png" class="bp2-kubernetes" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-docker-1.png" class="bp2-docker" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-caffee-2.png" class="bp2-caffee" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-opnefaas-1.png" class="bp2-opnefaas" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-mxnet-2.png" class="bp2-mxnet" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-tensorflow-1.png" class="bp2-tensorflow" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="bp2-moreflexibility">
+                        <div class="bp2-h2">
+                            <div class="bp2-rectangle">
+                            </div>
+                            <div class="bp2-rectangle1">
+                            </div>
+                            <div class="bp2-moreflexibilitymor">
+                                MORE FLEXIBILITY <br />MORE POWER
+                            </div>
+                        </div>
+                        <div class="bp2-a7xraspberrypicom">
+                            7 x Raspberry Pi Compute modules connected with 1 Gbps Ethernet network allows you to run cloud and ML applications at the edge
+                        </div>
+                        <img anima-src="./img/index-scheme-2.svg" class="bp2-scheme" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                    <div class="bp2-cards">
+                        <div class="bp2-a01">
+                            <img anima-src="./img/index-rectangle-10.png" class="bp2-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-14.png" class="bp2-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp2-experiencethefull">
+                                Experience the full power of compactness with mini ITX standard
+                            </div>
+                            <div class="bp2-miniitx">
+                                Mini ITX
+                            </div>
+                            <div class="bp2-icon1">
+                                <img anima-src="./img/index-icon-1-2.svg" class="bp2-icon11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp2-a02">
+                            <img anima-src="./img/index-rectangle-12.png" class="bp2-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-14.png" class="bp2-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp2-supportsraspberypi">
+                                Supports Raspberry Pi 3/3+ Compute modules. Starting at $25 per each module
+                            </div>
+                            <div class="bp2-rpimodules">
+                                RPi modules
+                            </div>
+                            <div class="bp2-icon2">
+                                <img anima-src="./img/index-icon-2-2.svg" class="bp2-icon21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp2-a03">
+                            <img anima-src="./img/index-rectangle-10.png" class="bp2-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-14.png" class="bp2-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp2-extendyourcreativi">
+                                Extend your creativity with 7x Raspberry Pi compatible shields
+                            </div>
+                            <div class="bp2-gpio40pin">
+                                GPIO 40-pin
+                            </div>
+                            <div class="bp2-icon3">
+                                <div class="bp2-background">
+                                </div>
+                                <img anima-src="./img/index-icon-3-2.svg" class="bp2-icon31" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp2-footer">
+                        <div class="bp2-rectangle">
+                        </div>
+                        <div class="bp2-right">
+                          <div class="bp2-privacy">
+                              <a href="privacy.html">PRIVACY</a>
+                          </div>
+                          <div class="bp2-cookies">
+                              <a href="cookies.html">COOKIES</a>
+                          </div>
+                        </div>
+                        <div class="bp2-turing2512019">
+                            TURING © 2019
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bp2-headerbg">
+            </div>
+            <div class="bp2-header-layout-container">
+                <div class="bp2-header">
+                    <div class="bp2-header1">
+                        <div class="bp2-div">
+                        </div>
+                        <div class="bp2-right">
+                            <a href="preorder.html">
+                                <div class="bp2-button">
+                                    <img anima-src="./img/shipping-rectangle-copy-2@2x.png" class="bp2-rectanglecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <div class="bp2-rectangle">
+                                    </div>
+                                    <div class="bp2-preordernow">
+                                        PREORDER NOW
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://turingpi.slack.com" target="_blank">
+                                <div class="bp2-slack">
+                                    <div class="bp2-contact">
+                                        CONTACT
+                                    </div>
+                                    <div class="bp2-slackicon">
+                                        <div class="bp2-rectangle">
+                                        </div>
+                                        <img anima-src="./img/index-bitmap-4@2x.png" class="bp2-bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp2-logo" id="None">
+                                <img anima-src="./img/index-logo@2x.svg" class="bp2-logo1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bp5-index3">
+            <div class="bp5-button-wrap-container">
+                <div class="bp5-button-layout-container">
+                    <a class="anima-full-height-a" href="preorder.html">
+                        <div class="bp5-button">
+                            <img anima-src="./img/index-rectangle-copy-4@2x.png" class="bp5-rectanglecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp5-rectangle">
+                            </div>
+                            <div class="bp5-preordernow">
+                                PREORDER NOW
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="bp5-body-layout-container">
+                <div class="bp5-body">
+                    <div class="bp5-hero">
+                        <div class="bp5-left">
+                            <div class="bp5-h1">
+                                <div class="bp5-rectangle">
+                                </div>
+                                <div class="bp5-rectanglecopy2">
+                                </div>
+                                <div class="bp5-turingpiclusterboa">
+                                    TURING PI<br />CLUSTERBOARD
+                                </div>
+                            </div>
+                            <div class="bp5-raspberrypicompati">
+                                RASPBERRY PI COMPATIBLE EDGE COMPUTER ON KUBERNETES
+                            </div>
+                        </div>
+                        <div class="bp5-right">
+                            <div class="bp5-bg">
+                            </div>
+                            <!--<div class="bp5-slider-layout-container">
+                                <div class="bp5-slider">
+                                    <img anima-src="./img/index-oval-copy-2@2x.png" class="bp5-ovalcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <img anima-src="./img/index-oval-copy-5-3@2x.png" class="bp5-ovalcopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <img anima-src="./img/index-oval-copy-2@2x.png" class="bp5-ovalcopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+
+                            </div>-->
+                            <div class="bp5-turingpiclusteboard slider single-item">
+                                <div><img anima-src="./img/index-turingpi-clusteboard.png" /></div>
+                                <div>2</div>
+                                <div>3</div>
+                            </div>
+                            <!--<img anima-src="./img/index-turingpi-clusteboard.png" class="bp5-turingpiclusteboard" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            -->
+                        </div>
+                    </div>
+                    <div class="bp5-software">
+                        <div class="bp5-h2">
+                            <div class="bp5-rectangle">
+                            </div>
+                            <div class="bp5-software1">
+                                SOFTWARE
+                            </div>
+                        </div>
+                        <div class="bp5-turingpisupportsk">
+                            Turing Pi supports Kubernetes software ecosystem, as well as machine learning and serverless stacks
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp5-logos">
+                                <img anima-src="./img/index-kubernetes-3.png" class="bp5-kubernetes" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-tensorflow-3.png" class="bp5-tensorflow" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-mxnet-3.png" class="bp5-mxnet" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-docker-3.png" class="bp5-docker" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-openfaas-1.png" class="bp5-openfaas" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-caffe-1.png" class="bp5-caffe" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="bp5-moreflexebility">
+                        <div class="bp5-h2">
+                            <div class="bp5-rectangle">
+                            </div>
+                            <div class="bp5-rectanglecopy3">
+                            </div>
+                            <div class="bp5-moreflexibilitymor">
+                                MORE FLEXIBILITY <br />MORE POWER
+                            </div>
+                        </div>
+                        <div class="bp5-a7xraspberrypicom">
+                            7 x Raspberry Pi Compute modules connected with 1 Gbps Ethernet network allows you to run cloud and ML applications at the edge
+                        </div>
+                        <img anima-src="./img/index-scheme-3.svg" class="bp5-scheme" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                    <div class="bp5-cards">
+                        <div class="bp5-a01">
+                            <img anima-src="./img/index-rectangle-18@2x.png" class="bp5-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp5-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp5-experiencethefull">
+                                Experience the full power of compactness with mini ITX standard
+                            </div>
+                            <div class="bp5-miniitx">
+                                Mini ITX
+                            </div>
+                            <div class="bp5-icon1">
+                                <img anima-src="./img/index-icon-1.svg" class="bp5-icon11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp5-a02">
+                            <img anima-src="./img/index-rectangle-17@2x.png" class="bp5-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp5-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp5-supportsraspberypi">
+                                Supports Raspberry Pi 3/3+ Compute modules. Starting at $25 per each module
+                            </div>
+                            <div class="bp5-rpimodules">
+                                RPi modules
+                            </div>
+                            <div class="bp5-icon2">
+                                <img anima-src="./img/index-icon-2.svg" class="bp5-icon21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp5-a03">
+                            <img anima-src="./img/index-rectangle-18@2x.png" class="bp5-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-1@2x.png" class="bp5-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp5-extendyourcreativi">
+                                Extend your creativity with 7x Raspberry Pi compatible shields
+                            </div>
+                            <div class="bp5-gpio40pin">
+                                GPIO 40-pin
+                            </div>
+                            <div class="bp5-group">
+                                <div class="bp5-icon3">
+                                    <div class="bp5-background">
+                                    </div>
+                                    <img anima-src="./img/index-icon-3.svg" class="bp5-icon31" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp5-footer">
+                        <div class="bp5-rectangle">
+                        </div>
+                        <!--<div class="bp5-right">
+                            <div class="bp5-privacy">
+                                PRIVACY
+                            </div>
+                            <div class="bp5-cookies">
+                                COOKIES
+                            </div>
+                        </div>-->
+                        <div class="bp5-turing2512019">
+                            TURING © 2019
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bp5-headerbg">
+            </div>
+            <div class="bp5-header-layout-container">
+                <div class="bp5-header">
+                    <a href="https://turingpi.slack.com" target="_blank">
+                        <div class="bp5-slack">
+                            <div class="bp5-slackicon">
+                                <div class="bp5-rectangle">
+                                </div>
+                                <img anima-src="./img/index-bitmap-4@2x.png" class="bp5-bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                            <div class="bp5-contact">
+                                CONTACT
+                            </div>
+                        </div>
+                    </a>
+                    <a href="https://turingpi.com">
+                        <div class="bp5-logo" id="None">
+                            <img anima-src="./img/index-logo-3@2x.svg" class="bp5-logo1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="bp3-index4">
+            <div class="bp3-body-layout-container">
+                <div class="bp3-body">
+                    <div class="bp3-hero">
+                        <div class="bp3-left">
+                            <div class="bp3-h1">
+                                <div class="bp3-rectangle">
+                                </div>
+                                <div class="bp3-rectangle1">
+                                </div>
+                                <div class="bp3-raspberrypicompati">
+                                    RASPBERRY PI COMPATIBLE EDGE <br />COMPUTER ON KUBERNETES
+                                </div>
+                                <div class="bp3-turingpiclusterboa">
+                                    TURING PI<br />CLUSTERBOARD
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bp3-right">
+                            <div class="bp3-bg">
+                            </div>
+                            <div class="bp3-turingpiclusteboard slider single-item">
+                                <div><img anima-src="./img/index-turingpi-clusteboard-1.png" /></div>
+                                <div>2</div>
+                                <div>3</div>
+                            </div>
+                            <!--<img anima-src="./img/index-turingpi-clusteboard-1.png" class="bp3-turingpiclusteboard" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp3-slider">
+                                <img anima-src="./img/index-oval-copy-6@2x.png" class="bp3-ovalcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-5-4@2x.png" class="bp3-ovalcopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-oval-copy-6@2x.png" class="bp3-ovalcopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>-->
+                            <div class="bp3-scrolldown">
+                                <div class="bp3-rectanglecopy2">
+                                </div>
+                                <img anima-src="./img/index-icon-scroll-2@2x.png" class="bp3-iconscroll" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp3-software">
+                        <div class="bp3-h2">
+                            <div class="bp3-rectangle">
+                            </div>
+                            <div class="bp3-software1">
+                                SOFTWARE
+                            </div>
+                        </div>
+                        <div class="bp3-turingpisupportsk">
+                            Turing Pi supports Kubernetes software ecosystem, as well as machine learning and serverless stacks
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp3-logos">
+                                <img anima-src="./img/index-kubernetes-2.png" class="bp3-kubernetes" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-docker-1.png" class="bp3-docker" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-caffee-2.png" class="bp3-caffee" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-opnefaas-1.png" class="bp3-opnefaas" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-mxnet-2.png" class="bp3-mxnet" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                <img anima-src="./img/index-tensorflow-1.png" class="bp3-tensorflow" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="bp3-moreflexibility">
+                        <div class="bp3-h2">
+                            <div class="bp3-rectangle">
+                            </div>
+                            <div class="bp3-rectanglecopy3">
+                            </div>
+                            <div class="bp3-moreflexibilitymor">
+                                MORE FLEXIBILITY <br />MORE POWER
+                            </div>
+                        </div>
+                        <div class="bp3-a7xraspberrypicom">
+                            7 x Raspberry Pi Compute modules connected with 1 Gbps Ethernet network allows you to run cloud and ML applications at the edge
+                        </div>
+                        <div class="bp3-scheme">
+                            <img anima-src="./img/index-scheme-4.svg" class="bp3-scheme1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <div class="bp3-cards">
+                        <div class="bp3-a01">
+                            <img anima-src="./img/index-rectangle-5.png" class="bp3-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp3-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp3-experiencethefull">
+                                Experience the full power of compactness with mini ITX standard
+                            </div>
+                            <div class="bp3-miniitx">
+                                Mini ITX
+                            </div>
+                            <div class="bp3-icon1">
+                                <img anima-src="./img/index-icon-1-4.svg" class="bp3-icon11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp3-a02">
+                            <img anima-src="./img/index-rectangle-7.png" class="bp3-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp3-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp3-supportsraspberypi">
+                                Supports Raspberry Pi 3/3+ Compute modules. Starting at $25 per each module
+                            </div>
+                            <div class="bp3-rpimodules">
+                                RPi modules
+                            </div>
+                            <div class="bp3-icon2">
+                                <img anima-src="./img/index-icon-2-4.svg" class="bp3-icon21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </div>
+                        <div class="bp3-a03">
+                            <img anima-src="./img/index-rectangle-5.png" class="bp3-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <img anima-src="./img/index-rectangle-6.png" class="bp3-rectangle1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            <div class="bp3-extendyourcreativi">
+                                Extend your creativity with 7 x Raspberry Pi compatible shields
+                            </div>
+                            <div class="bp3-gpio40pin">
+                                GPIO 40-pin
+                            </div>
+                            <div class="bp3-group">
+                                <div class="bp3-icon3">
+                                    <div class="bp3-background">
+                                    </div>
+                                    <img anima-src="./img/index-icon-3-4.svg" class="bp3-icon31" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bp3-footer">
+                        <div class="bp3-rectangle">
+                        </div>
+                        <div class="bp3-right">
+                          <div class="bp3-privacy">
+                              <a href="privacy.html">PRIVACY</a>
+                          </div>
+                          <div class="bp3-cookies">
+                              <a href="cookies.html">COOKIES</a>
+                          </div>
+                        </div>
+                        <div class="bp3-turing2512019">
+                            TURING © 2019
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bp3-headerbg">
+            </div>
+            <div class="bp3-header-layout-container">
+                <div class="bp3-header">
+                    <div class="bp3-header1">
+                        <div class="bp3-div">
+                        </div>
+                        <div class="bp3-right">
+                            <a href="preorder.html">
+                                <div class="bp3-button">
+                                    <img anima-src="./img/index-rectangle-copy-4@2x.png" class="bp3-rectanglecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    <div class="bp3-rectangle">
+                                    </div>
+                                    <div class="bp3-preordernow">
+                                        PREORDER NOW
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://turingpi.slack.com" target="_blank">
+                                <div class="bp3-slack">
+                                    <div class="bp3-contact">
+                                        CONTACT
+                                    </div>
+                                    <div class="bp3-slackicon">
+                                        <div class="bp3-rectangle">
+                                        </div>
+                                        <img anima-src="./img/index-bitmap-4@2x.png" class="bp3-bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <a href="https://turingpi.com">
+                            <div class="bp3-logo" id="None">
+                                <img anima-src="./img/index-logo-1@2x.svg" class="bp3-logo1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script type="text/javascript" src="./slick/slick.min.js"></script>
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+
+                $('.single-item').slick({
+                  arrows: false,
+                  dots: true,
+                  infinite: true,
+                  speed: 500,
+                  slidesToShow: 1,
+                  slidesToScroll: 1,
+                  autoplay: true,
+                  autoplaySpeed: 3000
+                });
+
+                function getUserID() {
+                    var userID = Cookies.get('userID');
+                    if(!userID) {
+                      userID = '_' + Math.random().toString(36).substr(2, 9);
+                      Cookies.set('userID', userID);
+                    }
+                    return userID;
+                }
+
+                var __uid = getUserID();
+
+                console.log(__uid);
+
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>

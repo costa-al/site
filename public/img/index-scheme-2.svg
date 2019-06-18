@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="868px" height="548px" viewBox="0 0 868 548" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Responsive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Scheme" transform="translate(0.000000, 2.000000)">
+            <g id="SD/eMMC" transform="translate(162.450000, 52.200000)" stroke="#49494A" stroke-width="1.62">
+                <path d="M2.80484625,0.935953583 L5.08595957,0.8493082 L5.80765577,-0.9 L44.82,-0.9 C45.9135238,-0.9 46.8,-0.0135238047 46.8,1.08 L46.8,40.7064374 C46.8,41.7919345 45.9260138,42.6750505 44.8405752,42.6863305 L16.2000811,42.9839654 L12.8802785,46.8 L2.88,46.8 C1.7864762,46.8 0.9,45.9135238 0.9,44.82 L0.9,2.91452678 C0.9,1.85024531 1.7413317,0.976349921 2.80484625,0.935953583 Z" id="Rectangle" fill="#FFEB89" transform="translate(23.850000, 22.950000) rotate(-270.000000) translate(-23.850000, -22.950000) "></path>
+                <path d="M2.80484625,131.435954 L5.08595957,131.349308 L5.80765577,129.6 L44.82,129.6 C45.9135238,129.6 46.8,130.486476 46.8,131.58 L46.8,171.206437 C46.8,172.291935 45.9260138,173.175051 44.8405752,173.18633 L16.2000811,173.483965 L12.8802785,177.3 L2.88,177.3 C1.7864762,177.3 0.9,176.413524 0.9,175.32 L0.9,133.414527 C0.9,132.350245 1.7413317,131.47635 2.80484625,131.435954 Z" id="Rectangle" fill="#FFFFFF" transform="translate(23.850000, 153.450000) rotate(-270.000000) translate(-23.850000, -153.450000) "></path>
+                <path d="M2.80484625,325.835954 L5.08595957,325.749308 L5.80765577,324 L44.82,324 C45.9135238,324 46.8,324.886476 46.8,325.98 L46.8,365.606437 C46.8,366.691935 45.9260138,367.575051 44.8405752,367.58633 L16.2000811,367.883965 L12.8802785,371.7 L2.88,371.7 C1.7864762,371.7 0.9,370.813524 0.9,369.72 L0.9,327.814527 C0.9,326.750245 1.7413317,325.87635 2.80484625,325.835954 Z" id="Rectangle" fill="#FFFFFF" transform="translate(23.850000, 347.850000) rotate(-270.000000) translate(-23.850000, -347.850000) "></path>
+                <path d="M2.80484625,66.6359536 L5.08595957,66.5493082 L5.80765577,64.8 L44.82,64.8 C45.9135238,64.8 46.8,65.6864762 46.8,66.78 L46.8,106.406437 C46.8,107.491935 45.9260138,108.375051 44.8405752,108.38633 L16.2000811,108.683965 L12.8802785,112.5 L2.88,112.5 C1.7864762,112.5 0.9,111.613524 0.9,110.52 L0.9,68.6145268 C0.9,67.5502453 1.7413317,66.6763499 2.80484625,66.6359536 Z" id="Rectangle" fill="#FFFFFF" transform="translate(23.850000, 88.650000) rotate(-270.000000) translate(-23.850000, -88.650000) "></path>
+                <path d="M2.80484625,261.035954 L5.08595957,260.949308 L5.80765577,259.2 L44.82,259.2 C45.9135238,259.2 46.8,260.086476 46.8,261.18 L46.8,300.806437 C46.8,301.891935 45.9260138,302.775051 44.8405752,302.78633 L16.2000811,303.083965 L12.8802785,306.9 L2.88,306.9 C1.7864762,306.9 0.9,306.013524 0.9,304.92 L0.9,263.014527 C0.9,261.950245 1.7413317,261.07635 2.80484625,261.035954 Z" id="Rectangle" fill="#FFFFFF" transform="translate(23.850000, 283.050000) rotate(-270.000000) translate(-23.850000, -283.050000) "></path>
+                <path d="M2.80484625,196.235954 L5.08595957,196.149308 L5.80765577,194.4 L44.82,194.4 C45.9135238,194.4 46.8,195.286476 46.8,196.38 L46.8,236.006437 C46.8,237.091935 45.9260138,237.975051 44.8405752,237.98633 L16.2000811,238.283965 L12.8802785,242.1 L2.88,242.1 C1.7864762,242.1 0.9,241.213524 0.9,240.12 L0.9,198.214527 C0.9,197.150245 1.7413317,196.27635 2.80484625,196.235954 Z" id="Rectangle" fill="#FFFFFF" transform="translate(23.850000, 218.250000) rotate(-270.000000) translate(-23.850000, -218.250000) "></path>
+                <path d="M3.25484625,390.635954 L5.53595957,390.549308 L6.25765577,388.8 L45.27,388.8 C46.3635238,388.8 47.25,389.686476 47.25,390.78 L47.25,430.406437 C47.25,431.491935 46.3760138,432.375051 45.2905752,432.38633 L16.6500811,432.683965 L13.3302785,436.5 L3.33,436.5 C2.2364762,436.5 1.35,435.613524 1.35,434.52 L1.35,392.614527 C1.35,391.550245 2.1913317,390.67635 3.25484625,390.635954 Z" id="Rectangle" fill="#FFFFFF" transform="translate(24.300000, 412.650000) rotate(-270.000000) translate(-24.300000, -412.650000) "></path>
+            </g>
+            <rect id="Rectangle" stroke="#49494A" stroke-width="2.7" fill="#F3F3F3" x="172.8" y="0" width="544.5" height="544.5" rx="5.94"></rect>
+            <g id="O" transform="translate(188.640000, 15.840000)">
+                <circle id="Oval" fill="#49494A" cx="9.9" cy="9.9" r="9.9"></circle>
+                <circle id="Oval" fill="#F3F3F3" cx="9.9" cy="9.9" r="3.96"></circle>
+            </g>
+            <g id="O" transform="translate(188.640000, 508.860000)">
+                <circle id="Oval" fill="#49494A" cx="9.9" cy="9.9" r="9.9"></circle>
+                <circle id="Oval" fill="#F3F3F3" cx="9.9" cy="9.9" r="3.96"></circle>
+            </g>
+            <g id="O" transform="translate(607.410000, 508.860000)">
+                <circle id="Oval" fill="#49494A" cx="9.9" cy="9.9" r="9.9"></circle>
+                <circle id="Oval" fill="#F3F3F3" cx="9.9" cy="9.9" r="3.96"></circle>
+            </g>
+            <g id="O" transform="translate(681.660000, 15.840000)">
+                <circle id="Oval" fill="#49494A" cx="9.9" cy="9.9" r="9.9"></circle>
+                <circle id="Oval" fill="#F3F3F3" cx="9.9" cy="9.9" r="3.96"></circle>
+            </g>
+            <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="190.8" y="231.3" width="19.8" height="82.17" rx="1.98"></rect>
+            <g id="Group-3" transform="translate(190.800000, 231.300000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                <path d="M0.81,37.17 L19.35,24.75" id="Line-Copy"></path>
+                <path d="M0.81,27.27 L19.35,14.85" id="Line-Copy-2"></path>
+                <path d="M0.81,16.47 L18.45,4.95" id="Line-Copy-3"></path>
+                <path d="M0.81,67.77 L19.35,55.35" id="Line-Copy-11"></path>
+                <path d="M0.81,57.87 L19.35,45.45" id="Line-Copy-10"></path>
+                <path d="M0.81,47.07 L18.45,35.55" id="Line-Copy-9"></path>
+                <path d="M0.81,77.67 L18.45,66.15" id="Line-Copy-12"></path>
+                <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                <path d="M9.81,81.27 L18.45,75.15" id="Line-Copy-13"></path>
+            </g>
+            <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="190.8" y="99" width="19.8" height="82.17" rx="1.98"></rect>
+            <g id="Group-2" transform="translate(190.800000, 99.000000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                <g id="Group-3">
+                    <path d="M0.81,37.17 L19.35,24.75" id="Line-Copy"></path>
+                    <path d="M0.81,27.27 L19.35,14.85" id="Line-Copy-2"></path>
+                    <path d="M0.81,16.47 L18.45,4.95" id="Line-Copy-3"></path>
+                    <path d="M0.81,67.77 L19.35,55.35" id="Line-Copy-11"></path>
+                    <path d="M0.81,57.87 L19.35,45.45" id="Line-Copy-10"></path>
+                    <path d="M0.81,47.07 L18.45,35.55" id="Line-Copy-9"></path>
+                    <path d="M0.81,77.67 L18.45,66.15" id="Line-Copy-12"></path>
+                    <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                    <path d="M9.81,81.27 L18.45,75.15" id="Line-Copy-13"></path>
+                </g>
+            </g>
+            <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="190.8" y="363.6" width="19.8" height="82.17" rx="1.98"></rect>
+            <g id="Group-3" transform="translate(190.800000, 363.600000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                <path d="M0.81,37.17 L19.35,24.75" id="Line-Copy"></path>
+                <path d="M0.81,27.27 L19.35,14.85" id="Line-Copy-2"></path>
+                <path d="M0.81,16.47 L18.45,4.95" id="Line-Copy-3"></path>
+                <path d="M0.81,67.77 L19.35,55.35" id="Line-Copy-11"></path>
+                <path d="M0.81,57.87 L19.35,45.45" id="Line-Copy-10"></path>
+                <path d="M0.81,47.07 L18.45,35.55" id="Line-Copy-9"></path>
+                <path d="M0.81,77.67 L18.45,66.15" id="Line-Copy-12"></path>
+                <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                <path d="M9.81,81.27 L18.45,75.15" id="Line-Copy-13"></path>
+            </g>
+            <g id="DDR" transform="translate(234.180000, 23.760000)">
+                <g id="7">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.8" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M101.97,0 L219.78,0 C220.326762,-1.00438532e-16 220.77,0.443238098 220.77,0.99 L220.77,20.79 C220.77,21.3367619 220.326762,21.78 219.78,21.78 L101.97,21.78 C101.423238,21.78 100.98,21.3367619 100.98,20.79 L100.98,0.99 C100.98,0.443238098 101.423238,1.00438532e-16 101.97,0 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#1" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#1</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="6" transform="translate(0.000000, 134.640000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.71" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M102.96,0 L218.79,0 C219.336762,1.05837704e-17 219.78,0.443238098 219.78,0.99 L219.78,20.79 C219.78,21.3367619 219.336762,21.78 218.79,21.78 L102.96,21.78 C102.413238,21.78 101.97,21.3367619 101.97,20.79 L101.97,0.99 C101.97,0.443238098 102.413238,2.11460835e-16 102.96,0 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#3" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#3</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-2" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="5" transform="translate(0.000000, 336.600000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.71" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M102.96,8.52651283e-14 L218.79,8.52651283e-14 C219.336762,8.52757121e-14 219.78,0.443238098 219.78,0.99 L219.78,20.79 C219.78,21.3367619 219.336762,21.78 218.79,21.78 L102.96,21.78 C102.413238,21.78 101.97,21.3367619 101.97,20.79 L101.97,0.99 C101.97,0.443238098 102.413238,8.54765891e-14 102.96,8.52651283e-14 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#6" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#6</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-3" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="4" transform="translate(0.000000, 67.320000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.8" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M101.97,-2.4158453e-13 L219.78,-2.4158453e-13 C220.326762,-2.41684969e-13 220.77,0.443238098 220.77,0.99 L220.77,20.79 C220.77,21.3367619 220.326762,21.78 219.78,21.78 L101.97,21.78 C101.423238,21.78 100.98,21.3367619 100.98,20.79 L100.98,0.99 C100.98,0.443238098 101.423238,-2.41484092e-13 101.97,-2.4158453e-13 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#2" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.6" y="47.9">Raspberry Pi	#2</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-4" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="3" transform="translate(0.000000, 269.280000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.71" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M102.96,-1.13686838e-13 L218.79,-1.13686838e-13 C219.336762,-1.13676254e-13 219.78,0.443238098 219.78,0.99 L219.78,20.79 C219.78,21.3367619 219.336762,21.78 218.79,21.78 L102.96,21.78 C102.413238,21.78 101.97,21.3367619 101.97,20.79 L101.97,0.99 C101.97,0.443238098 102.413238,-1.13475377e-13 102.96,-1.13686838e-13 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#5" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#5</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-5" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="2" transform="translate(0.000000, 201.960000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.71" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M102.96,-5.68434189e-14 L218.79,-5.68434189e-14 C219.336762,-5.68328351e-14 219.78,0.443238098 219.78,0.99 L219.78,20.79 C219.78,21.3367619 219.336762,21.78 218.79,21.78 L102.96,21.78 C102.413238,21.78 101.97,21.3367619 101.97,20.79 L101.97,0.99 C101.97,0.443238098 102.413238,-5.6631958e-14 102.96,-5.68434189e-14 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#4" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#4</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-6" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.95">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+                <g id="1" transform="translate(0.000000, 403.920000)">
+                    <rect id="Rectangle-Copy-30" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="28.8" width="271.26" height="31.68" rx="1.98"></rect>
+                    <path d="M102.96,5.68434189e-14 L218.79,5.68434189e-14 C219.336762,5.68540026e-14 219.78,0.443238098 219.78,0.99 L219.78,20.79 C219.78,21.3367619 219.336762,21.78 218.79,21.78 L102.96,21.78 C102.413238,21.78 101.97,21.3367619 101.97,20.79 L101.97,0.99 C101.97,0.443238098 102.413238,5.70548797e-14 102.96,5.68434189e-14 Z" id="Rectangle-Copy-31" stroke="#B0B0B0" stroke-width="1.44" fill-opacity="0" fill="#242333" stroke-linejoin="round" stroke-dasharray="1.8,3.6"></path>
+                    <text id="Rapsberry-Pi-#7" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="87.33" y="47.63">Raspberry Pi	#7</tspan>
+                    </text>
+                    <text id="GPIO-40-pin-Copy-7" font-family="Lekton-Bold, Lekton" font-size="10.8" font-weight="bold" fill="#262529">
+                        <tspan x="129.195" y="14.5">GPIO 40-pin</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="eth" transform="translate(521.280000, 45.540000)">
+                <g id="7">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="21.8">eth</tspan>
+                    </text>
+                </g>
+                <g id="6" transform="translate(0.000000, 67.320000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-2" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+                <g id="5" transform="translate(0.000000, 134.640000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-3" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+                <g id="4" transform="translate(0.000000, 201.960000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-4" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+                <g id="3" transform="translate(0.000000, 269.280000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-5" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+                <g id="2" transform="translate(0.000000, 336.600000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-6" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+                <g id="1" transform="translate(0.000000, 403.920000)">
+                    <rect id="Rectangle-" stroke="#49494A" stroke-width="1.62" fill="#F3F3F3" x="0" y="0" width="38.61" height="38.61" rx="1.98"></rect>
+                    <text id="eth-copy-7" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#262529">
+                        <tspan x="9.9" y="20.9">eth</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Right-side" transform="translate(653.940000, 50.580000)">
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="0" y="0" width="71.28" height="31.68" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 0.000000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M23.31,30.87 L69.21,1.17" id="Line"></path>
+                    <path d="M38.61,30.87 L69.21,11.07" id="Line"></path>
+                    <path d="M53.91,30.87 L69.21,20.97" id="Line"></path>
+                    <path d="M9.81,30.87 L55.71,0.27" id="Line"></path>
+                    <path d="M0.81,27.27 L41.31,0.27" id="Line"></path>
+                    <path d="M0.81,16.47 L25.11,0.27" id="Line"></path>
+                    <path d="M0.81,6.57 L10.71,0.27" id="Line"></path>
+                </g>
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="3.62376795e-13" y="446.4" width="71.28" height="31.68" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 446.400000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M2.61,31.5 L47.61,1.17" id="Line"></path>
+                    <path d="M17.01,31.5 L62.01,1.17" id="Line"></path>
+                    <path d="M32.31,31.5 L69.21,6.57" id="Line"></path>
+                    <path d="M46.71,31.5 L69.21,16.47" id="Line"></path>
+                    <path d="M60.21,31.5 L69.21,25.47" id="Line"></path>
+                    <path d="M0.81,22.77 L34.11,0.27" id="Line"></path>
+                    <path d="M0.81,12.87 L18.81,1.17" id="Line"></path>
+                    <path d="M0.81,2.07 L3.51,0.27" id="Line"></path>
+                </g>
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="0" y="359.1" width="71.28" height="47.52" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 360.000000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M2.61,45.9 L69.21,1.17" id="Line"></path>
+                    <path d="M17.01,45.9 L69.21,11.07" id="Line-Copy-5"></path>
+                    <path d="M32.31,45.9 L69.21,20.97" id="Line-Copy-6"></path>
+                    <path d="M46.71,45.9 L69.21,30.87" id="Line-Copy-7"></path>
+                    <path d="M60.21,45.9 L69.21,39.87" id="Line-Copy-8"></path>
+                    <path d="M0.81,37.17 L55.71,0.27" id="Line-Copy"></path>
+                    <path d="M0.81,27.27 L41.31,0.27" id="Line-Copy-2"></path>
+                    <path d="M0.81,16.47 L25.11,0.27" id="Line-Copy-3"></path>
+                    <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                </g>
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="0" y="232.2" width="71.28" height="47.52" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 234.000000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M2.61,45.9 L69.21,1.17" id="Line"></path>
+                    <path d="M17.01,45.9 L69.21,11.07" id="Line-Copy-5"></path>
+                    <path d="M32.31,45.9 L69.21,20.97" id="Line-Copy-6"></path>
+                    <path d="M46.71,45.9 L69.21,30.87" id="Line-Copy-7"></path>
+                    <path d="M60.21,45.9 L69.21,39.87" id="Line-Copy-8"></path>
+                    <path d="M0.81,37.17 L55.71,0.27" id="Line-Copy"></path>
+                    <path d="M0.81,27.27 L41.31,0.27" id="Line-Copy-2"></path>
+                    <path d="M0.81,16.47 L25.11,0.27" id="Line-Copy-3"></path>
+                    <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                </g>
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="0" y="296.1" width="71.28" height="47.52" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 296.100000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M2.61,47.7 L69.21,2.97" id="Line"></path>
+                    <path d="M17.01,47.7 L69.21,12.87" id="Line-Copy-5"></path>
+                    <path d="M32.31,47.7 L69.21,22.77" id="Line-Copy-6"></path>
+                    <path d="M46.71,47.7 L69.21,32.67" id="Line-Copy-7"></path>
+                    <path d="M60.21,47.7 L69.21,41.67" id="Line-Copy-8"></path>
+                    <path d="M0.81,38.97 L55.71,2.07" id="Line-Copy"></path>
+                    <path d="M0.81,29.07 L44.91,0.27" id="Line-Copy-2"></path>
+                    <path d="M0.81,18.27 L27.81,0.27" id="Line-Copy-3"></path>
+                    <path d="M0.81,8.37 L13.41,0.27" id="Line-Copy-4"></path>
+                </g>
+                <rect id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89" x="0" y="169.2" width="71.28" height="47.52" rx="1.98"></rect>
+                <g id="Group-2" transform="translate(0.900000, 170.100000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M2.61,45.9 L69.21,1.17" id="Line"></path>
+                    <path d="M17.01,45.9 L69.21,11.07" id="Line-Copy-5"></path>
+                    <path d="M32.31,45.9 L69.21,20.97" id="Line-Copy-6"></path>
+                    <path d="M46.71,45.9 L69.21,30.87" id="Line-Copy-7"></path>
+                    <path d="M60.21,45.9 L69.21,39.87" id="Line-Copy-8"></path>
+                    <path d="M0.81,37.17 L55.71,0.27" id="Line-Copy"></path>
+                    <path d="M0.81,27.27 L41.31,0.27" id="Line-Copy-2"></path>
+                    <path d="M0.81,16.47 L25.11,0.27" id="Line-Copy-3"></path>
+                    <path d="M0.81,6.57 L10.71,0.27" id="Line-Copy-4"></path>
+                </g>
+                <path d="M31.32,48.6 L68.94,48.6 C70.0335238,48.6 70.92,49.4864762 70.92,50.58 L70.92,94.14 C70.92,95.2335238 70.0335238,96.12 68.94,96.12 L31.32,96.12 C26.9459048,96.12 23.4,92.5740952 23.4,88.2 L23.4,56.52 C23.4,52.1459048 26.9459048,48.6 31.32,48.6 Z" id="Rectangle" stroke="#49494A" stroke-width="1.62" fill="#FFEB89"></path>
+                <g id="Group-2" transform="translate(23.400000, 49.500000)" stroke="#262529" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.9">
+                    <path d="M0.81,30.87 L46.71,0.27" id="Line"></path>
+                    <path d="M0.81,40.77 L46.71,10.17" id="Line"></path>
+                    <path d="M9.81,45 L46.71,20.07" id="Line"></path>
+                    <path d="M24.21,45 L46.71,29.97" id="Line"></path>
+                    <path d="M37.71,45 L46.71,38.97" id="Line"></path>
+                    <path d="M1.71,20.07 L32.31,0.27" id="Line"></path>
+                    <path d="M0.81,11.07 L17.46,0.27" id="Line"></path>
+                </g>
+            </g>
+            <g id="Switch-IC" transform="translate(571.770000, 192.060000)">
+                <rect id="Rectangle" fill="#49494A" x="0" y="0" width="70.29" height="75.24" rx="1.98"></rect>
+                <text id="Ethernet-1-Gbps" font-family="Lekton-Bold, Lekton" font-size="12.6" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="9.9" y="32.6">Ethernet</tspan>
+                    <tspan x="16.2" y="46.6">1 Gbps</tspan>
+                </text>
+            </g>
+            <g id="ATX" transform="translate(369.810000, 500.940000)">
+                <rect id="Rectangle-" fill="#49494A" x="0" y="0" width="171.27" height="31.68" rx="1.98"></rect>
+                <text font-family="Lato-Bold, Lato" font-size="11.88" font-weight="bold" letter-spacing="-0.197999999" fill="#FFFFFF">
+                    <tspan x="74.58363" y="19.92">ATX</tspan>
+                </text>
+            </g>
+            <g id="Text" transform="translate(0.000000, 45.900000)">
+                <text id="Audio" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="25.1">Audio</tspan>
+                </text>
+                <text id="DSI" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="63" y="232.1">DSI</tspan>
+                </text>
+                <text id="CSI" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="63" y="99.8">CSI</tspan>
+                </text>
+                <text id="CSI" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="63" y="359">CSI</tspan>
+                </text>
+                <text id="SD/eMMC-7x" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="0" y="17">SD/eMMC 7x</tspan>
+                </text>
+                <path d="M740.913158,20.25 L780.529066,20.25" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.913158,77.85 L780.529066,77.85" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M107.313158,13.05 L146.929066,13.05" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M107.313158,94.05 L189.086776,94.05" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M107.313158,353.25 L189.086776,353.25" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M107.313158,226.35 L189.086776,226.35" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.913158,466.65 L780.529066,466.65" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.25,197.55 L780.564941,197.55" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.25,324.45 L780.564941,324.45" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.25,247.95 L780.564941,247.95" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <path d="M740.25,387.45 L780.564941,387.45" id="Line" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <text id="HDMI" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="81.8">HDMI</tspan>
+                </text>
+                <text id="USB-2x" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="202.4">USB 2x</tspan>
+                </text>
+                <text id="Ethernet" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="252.8">Ethernet</tspan>
+                </text>
+                <path d="M740.25,272.25 L780.564941,272.25" id="Line-2" stroke="#B8B8B8" stroke-width="0.9" stroke-linecap="square"></path>
+                <text id="USB-4x-" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="277.1">USB 4x</tspan>
+                </text>
+                <text id="USB-2x" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="332.9">USB 2x</tspan>
+                </text>
+                <text id="USB-2x" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="395.9">USB 2x</tspan>
+                </text>
+                <text id="DC-5V" font-family="Lekton-Bold, Lekton" font-size="18" font-weight="bold" fill="#262529">
+                    <tspan x="795.6" y="475.1">DC 5V</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
